@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio Analysis Widget",
+  "description": "A comprehensive financial dashboard widget visualizing portfolio performance, asset allocation, and detailed breakdown of funds using Recharts and Tailwind CSS.",
+  "requestFramePermissions": []
+}
